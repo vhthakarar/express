@@ -4,6 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
+# Vivek Thakarar
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
